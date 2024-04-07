@@ -1,6 +1,6 @@
 const quotes = {
     "- Walt Disney": '"The Way Get Started Is To Quit Talking And Begin Doing."',
-    "- Winston Churchill": '"The Pessimist Sees Difficulty In Every Opportunity. The Optimist Sees Opportunity In Every Difficulty."',
+    "- Atharva Raut": '"The Pessimist Sees Difficulty In Every Opportunity. The Optimist Sees Opportunity In Every Difficulty."',
     "- Will Rogers": '"Don’t Let Yesterday Take Up Too Much Of Today."',
     "- Unknown": '"You Learn More From Failure Than From Success. Don’t Let It Stop You. Failure Builds Character."',
     "- Vince Lombardi": '"It’s Not Whether You Get Knocked Down, It’s Whether You Get Up."',
